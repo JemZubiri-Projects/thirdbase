@@ -2,7 +2,7 @@ $:.push File.expand_path('../lib', __FILE__)
 require 'second_base/version'
 
 Gem::Specification.new do |s|
-  s.name          = 'secondbase'
+  s.name          = 'thirdbase'
   s.version       = SecondBase::VERSION
   s.platform      = Gem::Platform::RUBY
   s.authors       = ['Karle Durante', 'Hunter Madison', 'Ken Collins']
